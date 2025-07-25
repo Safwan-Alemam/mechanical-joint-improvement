@@ -39,7 +39,7 @@ Created as a general mechanical design example for:
 
 ## 🖼️ Design Preview
 
-![Design Preview](drawing2.pdf)
+![Design Preview](drawing.pdf)
 
 ---
 
