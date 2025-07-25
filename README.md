@@ -39,7 +39,7 @@ Created as a general mechanical design example for:
 
 ## 🖼️ Design Preview
 
-![Design Preview](drawing.pdf)
+![Design Preview](https://github.com/Safwan-Alemam/mechanical-joint-improvement/blob/bf42323430e7f8a3a1a7a8ffa27a591fdbbbfe57/Drawing.pdf)
 
 ---
 
