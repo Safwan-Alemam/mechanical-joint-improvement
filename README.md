@@ -39,12 +39,12 @@ Created as a general mechanical design example for:
 
 ## 🖼️ Design Preview
 
-![Design Preview](c2bc5107-71f6-4761-90ec-13e2633f23b5.png)
+![Design Preview](Drawing 2.pdf)
 
 ---
 
 ## 👤 Author
 
-- **Your Name Here**
+- safwan alemam
 - July 2025
 
